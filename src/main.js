@@ -4,3 +4,4 @@ import router from "./router";
 import store from "./store";
 
 createApp(App).use(store).use(router).mount("#app");
+// the mount gets the id of the app
