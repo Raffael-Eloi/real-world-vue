@@ -1,24 +1,14 @@
 # real-world-vue
+A small project using a lot of Vue resources  
 
-## Project setup
-```
-npm install
-```
+## Preview Desktop
+WIP (Working In Progress)
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## Preview Mobile
+WIP (Working In Progress)
 
-### Compiles and minifies for production
-```
-npm run build
-```
+## Resources utilizeds
+WIP (Working In Progress)
 
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## Referentes
+WIP (Working In Progress)
