@@ -1,4 +1,4 @@
-# real-world-vue
+# Events Schedule - Real World Vue.js
 A small project using a lot of Vue resources  
 
 ## Preview Desktop
